@@ -1,0 +1,6 @@
+1.Recursion
+2.small problem
+3.pre/post logic
+4.Base case
+
+//not optimize approach

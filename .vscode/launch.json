@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CRUDEoperations",
+            "request": "launch",
+            "mainClass": "CRUDEoperations",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist2",
+            "request": "launch",
+            "mainClass": "Arraylist2",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "Ques1209",
+            "request": "launch",
+            "mainClass": "Ques1209",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNum",
+            "request": "launch",
+            "mainClass": "ArmstrongNum",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayCountEvenOdd",
+            "request": "launch",
+            "mainClass": "ArrayCountEvenOdd",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BinaryToDecimal",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "ElementOccuInArray",
+            "request": "launch",
+            "mainClass": "ElementOccuInArray",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "Frequency",
+            "request": "launch",
+            "mainClass": "Frequency",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "PalindromNumber",
+            "request": "launch",
+            "mainClass": "PalindromNumber",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "String1",
+            "request": "launch",
+            "mainClass": "String1",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "String2",
+            "request": "launch",
+            "mainClass": "String2",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "Sumofdigit",
+            "request": "launch",
+            "mainClass": "Sumofdigit",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "code1",
+            "request": "launch",
+            "mainClass": "code1",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "code2",
+            "request": "launch",
+            "mainClass": "code2",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "code3",
+            "request": "launch",
+            "mainClass": "code3",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "commonFreffix",
+            "request": "launch",
+            "mainClass": "commonFreffix",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "convertBinaryToDecimal",
+            "request": "launch",
+            "mainClass": "convertBinaryToDecimal",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "countEvenOdd",
+            "request": "launch",
+            "mainClass": "countEvenOdd",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "countWo",
+            "request": "launch",
+            "mainClass": "countWo",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "evenOddCompute",
+            "request": "launch",
+            "mainClass": "evenOddCompute",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "factorialRec",
+            "request": "launch",
+            "mainClass": "factorialRec",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "findEquilibrium",
+            "request": "launch",
+            "mainClass": "findEquilibrium",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "frequencyOfElement",
+            "request": "launch",
+            "mainClass": "frequencyOfElement",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "majorityElement",
+            "request": "launch",
+            "mainClass": "majorityElement",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "maxSubArray",
+            "request": "launch",
+            "mainClass": "maxSubArray",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "nQueens",
+            "request": "launch",
+            "mainClass": "nQueens",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "nQueensII",
+            "request": "launch",
+            "mainClass": "nQueensII",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "numOfZeroes",
+            "request": "launch",
+            "mainClass": "numOfZeroes",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "numbtoString",
+            "request": "launch",
+            "mainClass": "numbtoString",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "powerRec",
+            "request": "launch",
+            "mainClass": "powerRec",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "subArraySum",
+            "request": "launch",
+            "mainClass": "subArraySum",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "sudoku",
+            "request": "launch",
+            "mainClass": "sudoku",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "sudoku1",
+            "request": "launch",
+            "mainClass": "sudoku1",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "sumOfNnaturalNums",
+            "request": "launch",
+            "mainClass": "sumOfNnaturalNums",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "TechnicalTraining_bb76b03d"
+        }
+    ]
+}

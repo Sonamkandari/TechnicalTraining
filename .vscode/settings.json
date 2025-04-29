@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "Sec5_Rec_Part-2 Multi_Branch",
+        "Sec5_Rec_Part-1 Single_Branch",
+        "Sec3TT/ReferenceType",
+        "STRIVER",
+        "LogicalBuiding",
+        "Arrays",
+        "LeetCode_Problems"
+    ],
+    "java.project.referencedLibraries": []
+}
