@@ -6,15 +6,11 @@ class ArrayOperations{
     //here we are declaring an array with out giving a specific size to it
      int arr[];
      int size;
-
      // here we are taking a constructor of our class
      //note constructor will always has a same name as class name
-
      ArrayOperations(int capacity){
         arr=new int[capacity];//How many elements array can store
         size=0;// how many elements currently it have
-
-
      }
      //CRUDE
 
@@ -34,11 +30,9 @@ class ArrayOperations{
 
     size++;//how many elements we have
 
-
   }
   // creating a function for deleting an element
   void remove(int element){
-    
 
   }
 
