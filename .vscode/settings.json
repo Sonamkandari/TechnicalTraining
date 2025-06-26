@@ -5,8 +5,11 @@
         "Sec3TT/ReferenceType",
         "STRIVER",
         "LogicalBuiding",
+        "LeetCode_Problems",
+        "Arrays/TwoPointers.java",
+        "Arrays/SlidingWindow",
         "Arrays",
-        "LeetCode_Problems"
+        "Two Pointer"
     ],
     "java.project.referencedLibraries": []
 }

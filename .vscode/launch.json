@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "productArray",
+            "request": "launch",
+            "mainClass": "productArray",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "ContainerWith",
+            "request": "launch",
+            "mainClass": "ContainerWith",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "reversevowels",
+            "request": "launch",
+            "mainClass": "reversevowels",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
+            "name": "sumofelements",
+            "request": "launch",
+            "mainClass": "sumofelements",
+            "projectName": "TechnicalTraining_bb76b03d"
+        },
+        {
+            "type": "java",
             "name": "CRUDEoperations",
             "request": "launch",
             "mainClass": "CRUDEoperations",
